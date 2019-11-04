@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">a Lodjinha</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="nome_app">a Lodjinha</string>
+    <string name="no_data_available">No data available</string>
+    <string name="categorias">Categorias</string>
+    <string name="mais_vendidos">Mais Vendidos</string>
+</resources>
